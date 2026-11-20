@@ -1,0 +1,16 @@
+# Arquivos temporários
+*.log
+*.tmp
+
+# Configurações locais e credenciais
+.env
+.env.*
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Configurações de editores
+.vscode/
+.idea/
